@@ -5,16 +5,15 @@ Sharing Access Initiative - Resource Manager Models
 
 This is the initial design of models and prototyping for the core resource manager.
 
-TODO
+TODO:
 
-Build Wireframe Design for transactions:
-- Site navigation
-- Browsing items
-- Searching items
-- Renting items
-- Viewing account details
+Front End Protoyping:
+- Establish a subdirectory for front-end files
+- Establish UI theme and import jQuery, jQuery UI libraries and support files
+- Establish general layout template
+- Establish template variant for item browsing / rental
 
-Configure Python development environment:
+Back End Modeling:
+- Configure Python development environment:
 - Update readme with installation details
-
-Build Model Tests for Database elements:
+- Begin modeling item details
